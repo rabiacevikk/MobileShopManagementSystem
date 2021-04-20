@@ -1,0 +1,11 @@
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\bin\Debug\MobileShop.exe.config
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\bin\Debug\MobileShop.exe
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\bin\Debug\MobileShop.pdb
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.csprojAssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.Form1.resources
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.Properties.Resources.resources
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.csproj.GenerateResource.cache
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.exe
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.pdb
+C:\Users\rabia\OneDrive\Masaüstü\MobileShopManagementSystem\MobileShop\MobileShop\obj\Debug\MobileShop.FrmLogin.resources
